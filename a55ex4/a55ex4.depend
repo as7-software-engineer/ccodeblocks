@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702816954 source:c:\as7\programas\ccodeblocks\a55ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

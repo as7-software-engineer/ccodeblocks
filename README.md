@@ -1,0 +1,2 @@
+# ccodeblocks
+ tragetória em C
